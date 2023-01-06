@@ -3,9 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/rupam71">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rupam71&hide=stars,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div id="profileView" align="center">
 <img src="https://komarev.com/ghpvc/?username=rupam71&style=flat-square&color=blue" alt=""/>
