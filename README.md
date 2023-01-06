@@ -1,15 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/rupam71">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<div id="profileView" align="center">
-<img src="https://komarev.com/ghpvc/?username=rupam71&style=flat-square&color=blue" alt=""/>
-</div>
-
 <h1>
   Hi There 👋
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -21,11 +9,11 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :zap: In my free time, I solve problems and read tech articles.
-
+- :zap: <a href="https://www.linkedin.com/in/rupam71"><img src="https://img.shields.io/badge/Linkedin-follow-informational" alt="LinkedIn Badge"/></a>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -49,9 +37,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupam71&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rupam71&hide=stars,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rupam71&theme=tokyonight&border_radius=30&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupam71&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rupam71/rupam71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
