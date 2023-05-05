@@ -6,6 +6,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :zap: In my free time, I solve problems and read tech articles.
 - :zap: <a href="https://www.linkedin.com/in/rupam71"><img src="https://img.shields.io/badge/Linkedin-follow-informational" alt="LinkedIn Badge"/></a>
+![](https://komarev.com/ghpvc/?username=your-github-username)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
